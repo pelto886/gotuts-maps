@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 // Maps and structs differ in some ways:
+
 // Maps have all keys of same type
 // maps have all values of same type
 // maps keys are indexed we can iterate
